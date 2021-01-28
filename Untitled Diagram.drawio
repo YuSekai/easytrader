@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T11:15:55.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="CG0CyNFWtmdOPqmkxnsY" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T14:58:51.350Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="R_HNrxgZVEOjG1HrHfFE" version="14.2.7" type="github">
   <diagram id="hjLzeMbraxswB3M8S4vO" name="Page-1">
-    <mxGraphModel dx="1197" dy="230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1356" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -687,15 +687,6 @@
         <mxCell id="QH5kVCey-qOMAw6Wp_jd-294" value="&lt;font color=&quot;#3399ff&quot;&gt;电线杆&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="QH5kVCey-qOMAw6Wp_jd-292">
           <mxGeometry x="5" y="5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QH5kVCey-qOMAw6Wp_jd-295" value="" style="group;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="980" y="460" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QH5kVCey-qOMAw6Wp_jd-296" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=14;fontColor=#FFFFFF;strokeColor=#B5739D;" vertex="1" parent="QH5kVCey-qOMAw6Wp_jd-295">
-          <mxGeometry width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QH5kVCey-qOMAw6Wp_jd-297" value="&lt;font color=&quot;#3399ff&quot;&gt;旗帜&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="QH5kVCey-qOMAw6Wp_jd-295">
-          <mxGeometry x="5" y="5" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="QH5kVCey-qOMAw6Wp_jd-298" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1170" y="550" width="50" height="30" as="geometry" />
         </mxCell>
@@ -732,6 +723,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1000" y="580" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QH5kVCey-qOMAw6Wp_jd-312" value="" style="group;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QH5kVCey-qOMAw6Wp_jd-313" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=1;fontColor=#ffffff;fillColor=#f0a30a;strokeColor=#999999;" vertex="1" parent="QH5kVCey-qOMAw6Wp_jd-312">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QH5kVCey-qOMAw6Wp_jd-314" value="&lt;span style=&quot;font-size: 12px&quot;&gt;构筑物&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="QH5kVCey-qOMAw6Wp_jd-312">
+          <mxGeometry x="4.446535947712419" y="5" width="71.11111111111111" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QH5kVCey-qOMAw6Wp_jd-315" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#004C99;strokeWidth=2;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="QH5kVCey-qOMAw6Wp_jd-313" target="QH5kVCey-qOMAw6Wp_jd-105">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
